@@ -1,6 +1,6 @@
 ---
 title: Cifar10 classifier using VGG16
-tags: Python, TensorFlow, keras
+tags: Python, TensorFlow, Keras
 ---
 
 ## Description
